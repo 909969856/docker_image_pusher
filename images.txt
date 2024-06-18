@@ -1,5 +1,1 @@
-milvusdb/milvus:v2.4.1
-milvusdb/milvus:2.4-20240611-c331aa4a-amd64
-milvusdb/milvus:v2.4.4
-milvusdb/milvus:v2.4.3
-milvusdb/milvus:v2.4.2
+milvusdb/milvus:v2.3.3
