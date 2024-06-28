@@ -1,1 +1,1 @@
-vholer/numactl:latest
+numactl:latest
