@@ -1,1 +1,1 @@
-numactl:latest
+numactl-devel
