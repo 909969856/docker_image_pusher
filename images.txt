@@ -1,1 +1,1 @@
-ollama/ollama:latest
+neo4j:latest
